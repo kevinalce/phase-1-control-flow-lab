@@ -1,11 +1,6 @@
-function scuberGreetingForFeet(){
-  // Write your code here!
-}
-
-function ternaryCheckCity(){
-  // Write your code here!
-}
-
-function switchOnCharmFromTip(){
-  // Write your code here!
+function scuberGreetingForFeet (feet){
+  let result 
+  if (feet < 400){
+    return 'This one is on me!'
+  }
 }
